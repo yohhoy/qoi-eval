@@ -1,0 +1,6 @@
+[submodule "qoi"]
+	path = qoi
+	url = git@github.com:phoboslab/qoi.git
+[submodule "stb"]
+	path = stb
+	url = git@github.com:nothings/stb.git
