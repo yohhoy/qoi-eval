@@ -4,3 +4,6 @@
 [submodule "stb"]
 	path = stb
 	url = git@github.com:nothings/stb.git
+[submodule "vec-kodak"]
+	path = vec-kodak
+	url = git@github.com:MohamedBakrAli/Kodak-Lossless-True-Color-Image-Suite.git
